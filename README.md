@@ -9,8 +9,8 @@ A passionate Full Stack Developer and Machine Learning enthusiast from Sri Lanka
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/abdulla-zakey-a7688728a/)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com) ->
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://yourportfolio.com) ->
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com) -->
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://yourportfolio.com) -->
 
 ---
 
